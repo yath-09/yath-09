@@ -24,13 +24,9 @@
   <a href="https://www.prisma.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="Prisma" width="50" height="50"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> </a>
   <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-s3.png" alt="AWS S3" width="50" height="50"/> </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank"> <img src="https://img.icons8.com/color/48/aws-lambda.png" alt="AWS Lambda" width="50" height="50"/> </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-dynamodb.png" alt="AWS DynamoDB" width="50" height="50"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> </a>
+ <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> </a>
   <a href="https://hub.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/docker.png" alt="Docker Hub" width="50" height="50"/> </a>
-  <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.icons8.com/color/48/github-actions.png" alt="CI/CD Pipelines" width="50" height="50"/> </a>
- <a href="https://bun.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Bun (JS Runtime)" width="50" height="50"/> </a>
-</p>
+  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yath-09&show_icons=true&locale=en&layout=compact" alt="yath-09" /></p>
 
