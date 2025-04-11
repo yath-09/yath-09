@@ -25,7 +25,7 @@
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> </a>
   <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-s3.png" alt="AWS S3" width="50" height="50"/> </a>
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> </a>
-  <a href="https://hub.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/docker.png" alt="Docker Hub" width="50" height="50"/> </a>
+  
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yath-09&show_icons=true&locale=en&layout=compact" alt="yath-09" /></p>
